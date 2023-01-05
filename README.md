@@ -10,7 +10,7 @@ mv ~/PATH/TO/RepoScript/.my_commands.sh ~/
 *If that shouldn't work, manually copy them to your home folder or create new files and copy the contents*
 
 ```bash
-source ./my_commands.sh
+source /.my_commands.sh
 ```
 
 ### Usage:
